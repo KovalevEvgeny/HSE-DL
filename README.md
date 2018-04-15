@@ -1,2 +1,2 @@
 # HSE-DL
-Deep Learning at HSE
+Deep Learning course at HSE
